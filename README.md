@@ -80,33 +80,6 @@ git clone https://github.com/vatsa709/Advanced-Password-Generator.git
 cd Advanced-Password-Generator
 ````
 
-### Create a Virtual Environment (Recommended):
-
-It's best practice to use a virtual environment to manage project dependencies.
-
-```bash
-python3 -m venv venv
-```
-
-### Activate the virtual environment:
-
-* **On Linux/macOS:**
-
-  ```bash
-  source venv/bin/activate
-  ```
-
-* **On Windows (Command Prompt):**
-
-  ```bash
-  .\venv\Scripts\activate.bat
-  ```
-
-* **On Windows (PowerShell):**
-
-  ```bash
-  .\venv\Scripts\Activate.ps1
-  ```
 
 ### Install Dependencies:
 
