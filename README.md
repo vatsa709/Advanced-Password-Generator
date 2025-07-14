@@ -216,7 +216,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ---
 
-## Acknowledgements
+## 🙏 Acknowledgements
 
 * **Have I Been Pwned (HIBP)**: For providing the invaluable service and API for checking compromised passwords.
 * **Electronic Frontier Foundation (EFF)**: For their work on the Diceware wordlists, promoting strong and memorable passphrases.
