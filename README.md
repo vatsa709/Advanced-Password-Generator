@@ -1,4 +1,4 @@
-# 🔐 Advanced Password Generator
+# 🔐 KeyWise - Advanced Password Generator
 
 A robust, secure, and user-friendly password and passphrase generator designed to address common vulnerabilities and usability issues found in typical password tools. Generate strong, unique, and memorable credentials with confidence.
 
